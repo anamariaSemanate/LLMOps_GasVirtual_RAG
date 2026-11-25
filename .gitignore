@@ -1,0 +1,9 @@
+# Lista local de nombres reales: nunca se sube
+terminos_prohibidos.txt
+
+# Generados al ejecutar
+datos/indice.json
+datos/resultados_*.json
+__pycache__/
+*.pyc
+.venv/
