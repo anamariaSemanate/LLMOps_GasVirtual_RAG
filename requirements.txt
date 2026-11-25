@@ -1,0 +1,9 @@
+# Dependencias para ejecutar fuera de Docker:
+#   - scripts/generar_documentos.py y scripts/verificar_anonimizacion.py
+#   - app/evaluacion.py desde Windows (opcional; también corre dentro del contenedor)
+# Las dependencias de la API están en app/requirements.txt y se instalan en su contenedor.
+pandas>=2.0
+pyarrow>=14
+numpy>=1.26,<3
+requests>=2.32,<3
+mlflow>=3.0,<4

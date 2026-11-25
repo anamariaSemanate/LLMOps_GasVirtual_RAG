@@ -109,8 +109,9 @@ No uses `docker compose down -v`, porque borra los modelos descargados.
 
 ## Regenerar los documentos (opcional)
 
-Requiere Python con `pandas` y `pyarrow`:
+Los servicios corren en Docker y no necesitan instalar nada en Windows. Los scripts de documentos usan las dependencias de `requirements.txt` (las de la API están en `app/requirements.txt`):
 ```powershell
+pip install -r requirements.txt
 python scripts/generar_documentos.py
 python scripts/verificar_anonimizacion.py
 ```
