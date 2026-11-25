@@ -1,0 +1,26 @@
+id,categoria,pregunta,respuesta_esperada,clave,fuente_esperada
+1,consumo,¿Cuál fue la semana de mayor consumo de la estación EST_01 en el último año?,La semana del 2022-04-04 (21161 unidades),2022-04-04,consumo/EST_01_perfil.txt
+2,consumo,¿Cuánto gas consumió la estación EST_01 en la semana del 2022-06-06?,15709 unidades,15709,consumo/EST_01_semanas.txt
+3,consumo,¿Qué día de la semana tiene el mayor consumo la estación EST_01?,El sábado,sábado,consumo/EST_01_perfil.txt
+4,consumo,¿Cuál fue la semana de mayor consumo de la estación EST_02 en el último año?,La semana del 2022-01-24 (174855 unidades),2022-01-24,consumo/EST_02_perfil.txt
+5,consumo,¿Cuánto gas consumió la estación EST_02 en la semana del 2022-03-21?,157067 unidades,157067,consumo/EST_02_semanas.txt
+6,consumo,¿Los festivos aumentan o disminuyen el consumo en la estación EST_02?,Los festivos disminuyen el consumo,dismin,consumo/EST_02_perfil.txt
+7,consumo,¿Cuál fue la semana de mayor consumo de la estación EST_03 en el último año?,La semana del 2022-06-06 (6512 unidades),2022-06-06,consumo/EST_03_perfil.txt
+8,consumo,¿Cuánto gas consumió la estación EST_03 en la semana del 2022-02-21?,6049 unidades,6049,consumo/EST_03_semanas.txt
+9,consumo,¿Los festivos aumentan o disminuyen el consumo en la estación EST_03?,Los festivos disminuyen el consumo,dismin,consumo/EST_03_perfil.txt
+10,consumo,¿Cuál fue la semana de mayor consumo de la estación EST_04 en el último año?,La semana del 2022-01-10 (5628 unidades),2022-01-10,consumo/EST_04_perfil.txt
+11,consumo,¿Cuánto gas consumió la estación EST_04 en la semana del 2022-05-09?,3829 unidades,3829,consumo/EST_04_semanas.txt
+12,consumo,¿A qué hora del día consume más gas la estación EST_04?,A las 11:00,11:00,consumo/EST_04_perfil.txt
+13,consumo,¿Cuál fue la semana de mayor consumo de la estación EST_05 en el último año?,La semana del 2022-04-04 (13130 unidades),2022-04-04,consumo/EST_05_perfil.txt
+14,consumo,¿Cuánto gas consumió la estación EST_05 en la semana del 2021-09-20?,11421 unidades,11421,consumo/EST_05_semanas.txt
+15,consumo,¿A qué hora del día consume más gas la estación EST_05?,A las 11:00,11:00,consumo/EST_05_perfil.txt
+16,diagnostico,¿Por qué es peligroso que el modelo subestime el consumo?,Porque sobreestima la autonomía y puede llevar a desabastecimiento,desabastec,diagnostico/sesgo_negativo.txt
+17,diagnostico,¿Qué indica que el consumo reciente sea mayor que la media de entrenamiento?,Una deriva de nivel; conviene normalizar con medias recientes o reentrenar,deriva,diagnostico/deriva_nivel.txt
+18,diagnostico,¿Cuánto aumenta el consumo en Semana Santa?,Entre 19 % y 27 % en algunas estaciones,19,diagnostico/festivos_vacaciones.txt
+19,diagnostico,¿Por qué el pronóstico recursivo no alcanza los picos de consumo?,Porque al encadenar predicciones la curva se aplana hacia el promedio,aplan,diagnostico/curvas_aplanadas.txt
+20,bitacora,¿Por qué se descartó SARIMA con estacionalidad de 168 horas?,Por el costo de memoria y tiempo: el ajuste no terminó en más de 24 horas,24,bitacora/sarima.txt
+21,bitacora,¿Qué modelo se seleccionó finalmente para el pronóstico?,El LSTM global con la variable de la semana anterior (lag),lstm,bitacora/gru_y_seleccion.txt
+22,bitacora,¿Por qué se usan tres semillas en los experimentos?,Porque la misma arquitectura varía mucho entre entrenamientos,semilla,bitacora/lstm_mejoras.txt
+23,bitacora,¿Qué aportó la temperatura al modelo LSTM?,Nada: no supera el ruido entre semillas,no,bitacora/lstm_mejoras.txt
+24,sin_evidencia,¿Cuál es el precio del metro cúbico de gas?,No existe información suficiente,,
+25,sin_evidencia,¿Cuántos conductores tiene la flota de camiones?,No existe información suficiente,,
