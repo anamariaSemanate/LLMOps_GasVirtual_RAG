@@ -1,0 +1,13 @@
+BITÁCORA: MEJORAS DEL LSTM
+
+Tres semillas: como la misma arquitectura variaba hasta 20 puntos entre entrenamientos, cada configuración se entrenó con 3 semillas (42, 7 y 123). Una mejora solo se acepta si supera la variación entre semillas.
+
+Variable de la semana anterior (lag): se agregó una columna con el valor de la misma hora de la semana anterior, ubicada en el último paso de la ventana, donde el LSTM la lee mejor. Fue el ajuste que mejor funcionó: EST_03 pasó de -13,2 % a +0,8 % frente al ingenuo, y mejoró en los tres cortes del walk-forward. También redujo la variación entre semillas. Empeoró un poco EST_02, la serie con el patrón semanal más débil.
+
+Temperatura: se probó agregarla sobre la configuración lag. No aportó: ninguna diferencia superó la variación entre semillas. La correlación entre temperatura y consumo se explica sobre todo porque ambas siguen el ciclo diario, que el modelo ya conoce por la hora.
+
+Vacaciones: se probó una variable de vacaciones escolares. Empató con lag; probablemente la semana anterior ya capta el efecto.
+
+Métrica: se adoptó el WAPE en lugar del MAPE. Con lag, el WAPE diario del LSTM quedó entre 1,7 % y 3,5 %, frente a 2,9 % a 11,4 % del ingenuo. En EST_03 el error diario coincide casi exactamente con el sesgo.
+
+Importancia de variables: el modelo usa sobre todo el historial de consumo y la hora del día; el mes y el día de la semana casi no se usan.

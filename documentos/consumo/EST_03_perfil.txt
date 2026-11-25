@@ -1,0 +1,12 @@
+PERFIL DE CONSUMO DE LA ESTACIÓN EST_03
+Datos anonimizados: el volumen está escalado (unidades, no m³) y las fechas están desplazadas.
+
+Periodo con datos de la estación EST_03: del 2016-04-06 al 2022-08-05. Consumo semanal promedio de EST_03 en el último año: 5948 unidades. Variación del consumo de EST_03 en el último año frente al año anterior: +11.5 %.
+
+Semana de mayor consumo de la estación EST_03 en el último año: la semana del 2022-06-06, con 6512 unidades. Semana de menor consumo de EST_03 en el último año: la semana del 2021-08-09, con 5182 unidades.
+
+Patrón diario de la estación EST_03: la hora del día con mayor consumo promedio es las 11:00 y la de menor consumo es las 2:00. Patrón semanal de EST_03: el día de la semana con mayor consumo promedio es el viernes y el de menor consumo es el domingo.
+
+Fin de semana y festivos en la estación EST_03: el consumo diario del fin de semana es -8.2 % frente a un día laboral normal. En los festivos entre semana el consumo diario de EST_03 disminuye (-3.9 %) frente a un día laboral normal.
+
+Estacionalidad anual de la estación EST_03: el mes con mayor consumo promedio es marzo y el de menor consumo es mayo.

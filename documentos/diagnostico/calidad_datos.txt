@@ -1,0 +1,9 @@
+DIAGNÓSTICO: PROBLEMAS DE CALIDAD DE DATOS
+
+Huecos de comunicación: el sistema SCADA registra lecturas cada 10 minutos, pero hay periodos sin comunicación. En el extracto histórico, una estación tenía el 51 % del tiempo sin datos y otra el 24 %. Antes de agregar a nivel horario se exige un mínimo de lecturas por hora; las horas incompletas se imputan o se marcan.
+
+Valores negativos y reinicios: el volumen acumulado (totalizador) puede reiniciarse o presentar saltos. Una diferencia negativa entre dos lecturas no es consumo real y debe descartarse. En una estación se encontraron negativos concentrados por un desfase de calibración del instrumento.
+
+Caída simultánea: en un periodo de unos dos meses, las cinco series mostraron una caída de consumo al mismo tiempo. No se ha confirmado si fue una falla del sistema de facturación o una interrupción real del despacho desde la planta compresora, que es la única fuente de cargue para todas las estaciones. Ese periodo debe marcarse y revisarse antes de usarlo en entrenamiento.
+
+Indicador en el monitoreo: el tablero muestra las horas imputadas en la ventana de entrada de cada pronóstico. Muchas horas imputadas reducen la confianza en el pronóstico de esa semana.

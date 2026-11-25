@@ -1,0 +1,9 @@
+BITÁCORA: REGRESIÓN TWEEDIE
+
+Qué se hizo: una regresión Tweedie por estación, ajustada con búsqueda de hiperparámetros y comparada contra el pronóstico ingenuo que repite la misma hora de la semana anterior.
+
+Resultado: Tweedie solo superó al ingenuo en las dos estaciones que operan de forma alternada (mejoras de 34,6 % y 8,7 % en MAE). En las otras cuatro estaciones ganó el ingenuo.
+
+Por qué: el patrón semanal de esas cuatro estaciones es tan repetitivo que copiar la semana anterior ya es un pronóstico muy preciso. Tweedie representa el ciclo como un promedio suave, mientras que el ingenuo copia el dato real con todas sus particularidades.
+
+Lección: el error absoluto por sí solo engaña. Un modelo con un error que parece bajo puede ser peor que no hacer nada. Desde este experimento, todos los modelos se comparan contra el ingenuo.

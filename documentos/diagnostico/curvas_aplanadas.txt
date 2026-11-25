@@ -1,0 +1,9 @@
+DIAGNÓSTICO: CURVAS APLANADAS EN EL PRONÓSTICO DE 168 HORAS
+
+Qué es: cuando el pronóstico de 7 días se construye de forma recursiva, cada hora pronosticada se usa como entrada para pronosticar la siguiente. Los errores se acumulan y la curva tiende a aplanarse hacia el promedio: el modelo no alcanza los picos reales.
+
+Cómo detectarlo: la razón entre el máximo pronosticado y el máximo real queda entre 0,9 y 1,0; el error acumulado empieza cerca de cero y se abre con el paso de las horas; la forma diaria se suaviza en los últimos días del horizonte.
+
+Diferencia con un problema de nivel: si el error acumulado es negativo desde las primeras horas y crece de forma pareja, el problema es de nivel (ver deriva de nivel). Si empieza cerca de cero y se abre con las horas, el problema es la recursión.
+
+Qué hacer: usar un modelo con salida directa de 168 valores, que pronostica toda la semana de una vez y no encadena predicciones; o entrenar un modelo que pronostique la corrección sobre el pronóstico ingenuo. Un modelo inestable en modo recursivo puede incluso explotar: la variante Conv1D con rezago llegó a pronosticar picos de 2,2 veces el valor real.

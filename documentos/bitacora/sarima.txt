@@ -1,0 +1,11 @@
+BITÁCORA: SARIMA Y SARIMAX
+
+Qué se hizo: diagnóstico de estacionalidad (ACF, PACF, prueba ADF y descomposición STL) y ajuste automático de órdenes con estacionalidad diaria (m = 24) por estación.
+
+Estacionalidad semanal: el ciclo dominante es semanal (168 horas). Se intentó un SARIMA con s = 168 y una ventana reducida a 3 años, pero se descartó por el costo de memoria y de tiempo: el proceso corrió más de 24 horas sin producir resultado.
+
+Fourier: se agregó el ciclo semanal como variables exógenas de Fourier (SARIMAX). No cambió casi nada (diferencias de 0,1 % a 0,6 %), porque un promedio suave de la semana no compite con el ingenuo, que copia el dato real.
+
+Reevaluación: la evaluación original pronosticaba 60 días sin datos nuevos contra un ingenuo que sí usaba datos reales, una comparación injusta. Al reevaluar a una hora vista, con diferenciación estacional semanal sobre la diferencia contra la semana anterior, SARIMA superó al ingenuo en todas las series. Se agregó la prueba de Ljung-Box para revisar los residuos.
+
+Conclusión: SARIMA queda como modelo de comparación, no como candidato a producción.

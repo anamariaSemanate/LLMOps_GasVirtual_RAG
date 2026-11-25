@@ -1,0 +1,105 @@
+RESUMEN SEMANAL DE CONSUMO DE LA ESTACIÓN EST_03 (último año, datos anonimizados)
+
+Estación EST_03, semana del 2021-08-02 al 2021-08-08. Consumo total de la semana: 5247 unidades. Promedio diario: 750 unidades. Día de mayor consumo: viernes 2021-08-06 con 774 unidades. Día de menor consumo: domingo 2021-08-08 con 661 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -4.6 %. Fin de semana frente a entre semana: -6.4 %.
+
+Estación EST_03, semana del 2021-08-09 al 2021-08-15. Consumo total de la semana: 5182 unidades. Promedio diario: 740 unidades. Día de mayor consumo: sábado 2021-08-14 con 782 unidades. Día de menor consumo: viernes 2021-08-13 con 677 unidades. Festivos en la semana: jueves 2021-08-12. Variación frente a la semana anterior: -1.3 %. Fin de semana frente a entre semana: +0.8 %.
+
+Estación EST_03, semana del 2021-08-16 al 2021-08-22. Consumo total de la semana: 5362 unidades. Promedio diario: 766 unidades. Día de mayor consumo: viernes 2021-08-20 con 817 unidades. Día de menor consumo: domingo 2021-08-22 con 680 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +3.5 %. Fin de semana frente a entre semana: -5.8 %.
+
+Estación EST_03, semana del 2021-08-23 al 2021-08-29. Consumo total de la semana: 5266 unidades. Promedio diario: 752 unidades. Día de mayor consumo: viernes 2021-08-27 con 797 unidades. Día de menor consumo: domingo 2021-08-29 con 659 unidades. Festivos en la semana: lunes 2021-08-23. Variación frente a la semana anterior: -1.8 %. Fin de semana frente a entre semana: -7.8 %.
+
+Estación EST_03, semana del 2021-08-30 al 2021-09-05. Consumo total de la semana: 5366 unidades. Promedio diario: 767 unidades. Día de mayor consumo: jueves 2021-09-02 con 812 unidades. Día de menor consumo: domingo 2021-09-05 con 722 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +1.9 %. Fin de semana frente a entre semana: -3.1 %.
+
+Estación EST_03, semana del 2021-09-06 al 2021-09-12. Consumo total de la semana: 5625 unidades. Promedio diario: 804 unidades. Día de mayor consumo: sábado 2021-09-11 con 841 unidades. Día de menor consumo: domingo 2021-09-12 con 719 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +4.8 %. Fin de semana frente a entre semana: -4.1 %.
+
+Estación EST_03, semana del 2021-09-13 al 2021-09-19. Consumo total de la semana: 5665 unidades. Promedio diario: 809 unidades. Día de mayor consumo: viernes 2021-09-17 con 877 unidades. Día de menor consumo: domingo 2021-09-19 con 714 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +0.7 %. Fin de semana frente a entre semana: -5.5 %.
+
+Estación EST_03, semana del 2021-09-20 al 2021-09-26. Consumo total de la semana: 5965 unidades. Promedio diario: 852 unidades. Día de mayor consumo: jueves 2021-09-23 con 903 unidades. Día de menor consumo: domingo 2021-09-26 con 777 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +5.3 %. Fin de semana frente a entre semana: -3.2 %.
+
+Estación EST_03, semana del 2021-09-27 al 2021-10-03. Consumo total de la semana: 5876 unidades. Promedio diario: 839 unidades. Día de mayor consumo: viernes 2021-10-01 con 890 unidades. Día de menor consumo: domingo 2021-10-03 con 730 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -1.5 %. Fin de semana frente a entre semana: -6.0 %.
+
+Estación EST_03, semana del 2021-10-04 al 2021-10-10. Consumo total de la semana: 5766 unidades. Promedio diario: 824 unidades. Día de mayor consumo: viernes 2021-10-08 con 905 unidades. Día de menor consumo: domingo 2021-10-10 con 753 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -1.9 %. Fin de semana frente a entre semana: -3.3 %.
+
+Estación EST_03, semana del 2021-10-11 al 2021-10-17. Consumo total de la semana: 5761 unidades. Promedio diario: 823 unidades. Día de mayor consumo: viernes 2021-10-15 con 878 unidades. Día de menor consumo: lunes 2021-10-11 con 777 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.1 %. Fin de semana frente a entre semana: -0.7 %.
+
+Estación EST_03, semana del 2021-10-18 al 2021-10-24. Consumo total de la semana: 5705 unidades. Promedio diario: 815 unidades. Día de mayor consumo: viernes 2021-10-22 con 879 unidades. Día de menor consumo: domingo 2021-10-24 con 725 unidades. Festivos en la semana: lunes 2021-10-18. Variación frente a la semana anterior: -1.0 %. Fin de semana frente a entre semana: -6.4 %.
+
+Estación EST_03, semana del 2021-10-25 al 2021-10-31. Consumo total de la semana: 5870 unidades. Promedio diario: 839 unidades. Día de mayor consumo: viernes 2021-10-29 con 903 unidades. Día de menor consumo: domingo 2021-10-31 con 761 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +2.9 %. Fin de semana frente a entre semana: -4.7 %.
+
+Estación EST_03, semana del 2021-11-01 al 2021-11-07. Consumo total de la semana: 5767 unidades. Promedio diario: 824 unidades. Día de mayor consumo: lunes 2021-11-01 con 863 unidades. Día de menor consumo: domingo 2021-11-07 con 710 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -1.7 %. Fin de semana frente a entre semana: -9.2 %.
+
+Estación EST_03, semana del 2021-11-08 al 2021-11-14. Consumo total de la semana: 5640 unidades. Promedio diario: 806 unidades. Día de mayor consumo: viernes 2021-11-12 con 854 unidades. Día de menor consumo: domingo 2021-11-14 con 711 unidades. Festivos en la semana: lunes 2021-11-08. Variación frente a la semana anterior: -2.2 %. Fin de semana frente a entre semana: -6.9 %.
+
+Estación EST_03, semana del 2021-11-15 al 2021-11-21. Consumo total de la semana: 5711 unidades. Promedio diario: 816 unidades. Día de mayor consumo: viernes 2021-11-19 con 856 unidades. Día de menor consumo: domingo 2021-11-21 con 773 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +1.3 %. Fin de semana frente a entre semana: -2.0 %.
+
+Estación EST_03, semana del 2021-11-22 al 2021-11-28. Consumo total de la semana: 5544 unidades. Promedio diario: 792 unidades. Día de mayor consumo: jueves 2021-11-25 con 837 unidades. Día de menor consumo: domingo 2021-11-28 con 733 unidades. Festivos en la semana: lunes 2021-11-22. Variación frente a la semana anterior: -2.9 %. Fin de semana frente a entre semana: -5.3 %.
+
+Estación EST_03, semana del 2021-11-29 al 2021-12-05. Consumo total de la semana: 5756 unidades. Promedio diario: 822 unidades. Día de mayor consumo: viernes 2021-12-03 con 901 unidades. Día de menor consumo: domingo 2021-12-05 con 736 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +3.8 %. Fin de semana frente a entre semana: -4.9 %.
+
+Estación EST_03, semana del 2021-12-06 al 2021-12-12. Consumo total de la semana: 5623 unidades. Promedio diario: 803 unidades. Día de mayor consumo: viernes 2021-12-10 con 862 unidades. Día de menor consumo: domingo 2021-12-12 con 753 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -2.3 %. Fin de semana frente a entre semana: -5.2 %.
+
+Estación EST_03, semana del 2021-12-13 al 2021-12-19. Consumo total de la semana: 5469 unidades. Promedio diario: 781 unidades. Día de mayor consumo: jueves 2021-12-16 con 823 unidades. Día de menor consumo: domingo 2021-12-19 con 702 unidades. Festivos en la semana: lunes 2021-12-13. Variación frente a la semana anterior: -2.7 %. Fin de semana frente a entre semana: -8.2 %.
+
+Estación EST_03, semana del 2021-12-20 al 2021-12-26. Consumo total de la semana: 5577 unidades. Promedio diario: 797 unidades. Día de mayor consumo: viernes 2021-12-24 con 825 unidades. Día de menor consumo: domingo 2021-12-26 con 726 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +2.0 %. Fin de semana frente a entre semana: -3.7 %.
+
+Estación EST_03, semana del 2021-12-27 al 2022-01-02. Consumo total de la semana: 5721 unidades. Promedio diario: 817 unidades. Día de mayor consumo: miércoles 2021-12-29 con 913 unidades. Día de menor consumo: jueves 2021-12-30 con 705 unidades. Festivos en la semana: jueves 2021-12-30. Variación frente a la semana anterior: +2.6 %. Fin de semana frente a entre semana: -5.2 %.
+
+Estación EST_03, semana del 2022-01-03 al 2022-01-09. Consumo total de la semana: 5657 unidades. Promedio diario: 808 unidades. Día de mayor consumo: miércoles 2022-01-05 con 935 unidades. Día de menor consumo: jueves 2022-01-06 con 631 unidades. Festivos en la semana: jueves 2022-01-06. Variación frente a la semana anterior: -1.1 %. Fin de semana frente a entre semana: +4.5 %.
+
+Estación EST_03, semana del 2022-01-10 al 2022-01-16. Consumo total de la semana: 5830 unidades. Promedio diario: 833 unidades. Día de mayor consumo: sábado 2022-01-15 con 858 unidades. Día de menor consumo: domingo 2022-01-16 con 763 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +3.1 %. Fin de semana frente a entre semana: -3.7 %.
+
+Estación EST_03, semana del 2022-01-17 al 2022-01-23. Consumo total de la semana: 5848 unidades. Promedio diario: 835 unidades. Día de mayor consumo: jueves 2022-01-20 con 887 unidades. Día de menor consumo: domingo 2022-01-23 con 711 unidades. Festivos en la semana: lunes 2022-01-17. Variación frente a la semana anterior: +0.3 %. Fin de semana frente a entre semana: -12.7 %.
+
+Estación EST_03, semana del 2022-01-24 al 2022-01-30. Consumo total de la semana: 5874 unidades. Promedio diario: 839 unidades. Día de mayor consumo: viernes 2022-01-28 con 879 unidades. Día de menor consumo: domingo 2022-01-30 con 769 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +0.5 %. Fin de semana frente a entre semana: -3.7 %.
+
+Estación EST_03, semana del 2022-01-31 al 2022-02-06. Consumo total de la semana: 6058 unidades. Promedio diario: 865 unidades. Día de mayor consumo: jueves 2022-02-03 con 899 unidades. Día de menor consumo: domingo 2022-02-06 con 803 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +3.1 %. Fin de semana frente a entre semana: -3.8 %.
+
+Estación EST_03, semana del 2022-02-07 al 2022-02-13. Consumo total de la semana: 5861 unidades. Promedio diario: 837 unidades. Día de mayor consumo: jueves 2022-02-10 con 892 unidades. Día de menor consumo: domingo 2022-02-13 con 708 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -3.2 %. Fin de semana frente a entre semana: -13.6 %.
+
+Estación EST_03, semana del 2022-02-14 al 2022-02-20. Consumo total de la semana: 6094 unidades. Promedio diario: 871 unidades. Día de mayor consumo: viernes 2022-02-18 con 947 unidades. Día de menor consumo: domingo 2022-02-20 con 807 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +4.0 %. Fin de semana frente a entre semana: -5.4 %.
+
+Estación EST_03, semana del 2022-02-21 al 2022-02-27. Consumo total de la semana: 6049 unidades. Promedio diario: 864 unidades. Día de mayor consumo: lunes 2022-02-21 con 903 unidades. Día de menor consumo: domingo 2022-02-27 con 794 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.7 %. Fin de semana frente a entre semana: -3.3 %.
+
+Estación EST_03, semana del 2022-02-28 al 2022-03-06. Consumo total de la semana: 6034 unidades. Promedio diario: 862 unidades. Día de mayor consumo: martes 2022-03-01 con 910 unidades. Día de menor consumo: domingo 2022-03-06 con 772 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.3 %. Fin de semana frente a entre semana: -9.6 %.
+
+Estación EST_03, semana del 2022-03-07 al 2022-03-13. Consumo total de la semana: 5989 unidades. Promedio diario: 856 unidades. Día de mayor consumo: sábado 2022-03-12 con 879 unidades. Día de menor consumo: domingo 2022-03-13 con 816 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.7 %. Fin de semana frente a entre semana: -1.4 %.
+
+Estación EST_03, semana del 2022-03-14 al 2022-03-20. Consumo total de la semana: 6003 unidades. Promedio diario: 858 unidades. Día de mayor consumo: jueves 2022-03-17 con 911 unidades. Día de menor consumo: domingo 2022-03-20 con 789 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +0.2 %. Fin de semana frente a entre semana: -5.8 %.
+
+Estación EST_03, semana del 2022-03-21 al 2022-03-27. Consumo total de la semana: 6115 unidades. Promedio diario: 874 unidades. Día de mayor consumo: sábado 2022-03-26 con 912 unidades. Día de menor consumo: domingo 2022-03-27 con 802 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +1.9 %. Fin de semana frente a entre semana: -2.6 %.
+
+Estación EST_03, semana del 2022-03-28 al 2022-04-03. Consumo total de la semana: 6112 unidades. Promedio diario: 873 unidades. Día de mayor consumo: viernes 2022-04-01 con 926 unidades. Día de menor consumo: domingo 2022-04-03 con 816 unidades. Festivos en la semana: lunes 2022-03-28. Variación frente a la semana anterior: -0.1 %. Fin de semana frente a entre semana: -3.8 %.
+
+Estación EST_03, semana del 2022-04-04 al 2022-04-10. Consumo total de la semana: 6349 unidades. Promedio diario: 907 unidades. Día de mayor consumo: jueves 2022-04-07 con 948 unidades. Día de menor consumo: domingo 2022-04-10 con 848 unidades. Festivos en la semana: jueves 2022-04-07, viernes 2022-04-08. Variación frente a la semana anterior: +3.9 %. Fin de semana frente a entre semana: -2.6 %.
+
+Estación EST_03, semana del 2022-04-11 al 2022-04-17. Consumo total de la semana: 6060 unidades. Promedio diario: 866 unidades. Día de mayor consumo: viernes 2022-04-15 con 903 unidades. Día de menor consumo: domingo 2022-04-17 con 781 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -4.5 %. Fin de semana frente a entre semana: -7.8 %.
+
+Estación EST_03, semana del 2022-04-18 al 2022-04-24. Consumo total de la semana: 6318 unidades. Promedio diario: 903 unidades. Día de mayor consumo: jueves 2022-04-21 con 959 unidades. Día de menor consumo: domingo 2022-04-24 con 852 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +4.2 %. Fin de semana frente a entre semana: -4.5 %.
+
+Estación EST_03, semana del 2022-04-25 al 2022-05-01. Consumo total de la semana: 6244 unidades. Promedio diario: 892 unidades. Día de mayor consumo: sábado 2022-04-30 con 925 unidades. Día de menor consumo: domingo 2022-05-01 con 804 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -1.2 %. Fin de semana frente a entre semana: -4.3 %.
+
+Estación EST_03, semana del 2022-05-02 al 2022-05-08. Consumo total de la semana: 6353 unidades. Promedio diario: 908 unidades. Día de mayor consumo: viernes 2022-05-06 con 943 unidades. Día de menor consumo: domingo 2022-05-08 con 854 unidades. Festivos en la semana: viernes 2022-05-06. Variación frente a la semana anterior: +1.7 %. Fin de semana frente a entre semana: -1.8 %.
+
+Estación EST_03, semana del 2022-05-09 al 2022-05-15. Consumo total de la semana: 6318 unidades. Promedio diario: 903 unidades. Día de mayor consumo: sábado 2022-05-14 con 946 unidades. Día de menor consumo: domingo 2022-05-15 con 802 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.6 %. Fin de semana frente a entre semana: -4.3 %.
+
+Estación EST_03, semana del 2022-05-16 al 2022-05-22. Consumo total de la semana: 6474 unidades. Promedio diario: 925 unidades. Día de mayor consumo: viernes 2022-05-20 con 962 unidades. Día de menor consumo: domingo 2022-05-22 con 871 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +2.5 %. Fin de semana frente a entre semana: -2.1 %.
+
+Estación EST_03, semana del 2022-05-23 al 2022-05-29. Consumo total de la semana: 6411 unidades. Promedio diario: 916 unidades. Día de mayor consumo: viernes 2022-05-27 con 972 unidades. Día de menor consumo: domingo 2022-05-29 con 836 unidades. Festivos en la semana: lunes 2022-05-23. Variación frente a la semana anterior: -1.0 %. Fin de semana frente a entre semana: -5.5 %.
+
+Estación EST_03, semana del 2022-05-30 al 2022-06-05. Consumo total de la semana: 6396 unidades. Promedio diario: 914 unidades. Día de mayor consumo: viernes 2022-06-03 con 938 unidades. Día de menor consumo: domingo 2022-06-05 con 862 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.2 %. Fin de semana frente a entre semana: -2.3 %.
+
+Estación EST_03, semana del 2022-06-06 al 2022-06-12. Consumo total de la semana: 6512 unidades. Promedio diario: 930 unidades. Día de mayor consumo: viernes 2022-06-10 con 988 unidades. Día de menor consumo: domingo 2022-06-12 con 880 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +1.8 %. Fin de semana frente a entre semana: +0.2 %.
+
+Estación EST_03, semana del 2022-06-13 al 2022-06-19. Consumo total de la semana: 6506 unidades. Promedio diario: 929 unidades. Día de mayor consumo: viernes 2022-06-17 con 952 unidades. Día de menor consumo: domingo 2022-06-19 con 864 unidades. Festivos en la semana: lunes 2022-06-13. Variación frente a la semana anterior: -0.1 %. Fin de semana frente a entre semana: -4.4 %.
+
+Estación EST_03, semana del 2022-06-20 al 2022-06-26. Consumo total de la semana: 6472 unidades. Promedio diario: 925 unidades. Día de mayor consumo: viernes 2022-06-24 con 979 unidades. Día de menor consumo: domingo 2022-06-26 con 856 unidades. Festivos en la semana: lunes 2022-06-20. Variación frente a la semana anterior: -0.5 %. Fin de semana frente a entre semana: -3.3 %.
+
+Estación EST_03, semana del 2022-06-27 al 2022-07-03. Consumo total de la semana: 6450 unidades. Promedio diario: 921 unidades. Día de mayor consumo: viernes 2022-07-01 con 962 unidades. Día de menor consumo: domingo 2022-07-03 con 842 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: -0.3 %. Fin de semana frente a entre semana: -7.2 %.
+
+Estación EST_03, semana del 2022-07-04 al 2022-07-10. Consumo total de la semana: 6257 unidades. Promedio diario: 894 unidades. Día de mayor consumo: viernes 2022-07-08 con 944 unidades. Día de menor consumo: domingo 2022-07-10 con 816 unidades. Festivos en la semana: lunes 2022-07-04. Variación frente a la semana anterior: -3.0 %. Fin de semana frente a entre semana: -6.2 %.
+
+Estación EST_03, semana del 2022-07-11 al 2022-07-17. Consumo total de la semana: 6345 unidades. Promedio diario: 906 unidades. Día de mayor consumo: jueves 2022-07-14 con 983 unidades. Día de menor consumo: domingo 2022-07-17 con 867 unidades. Festivos en la semana: ninguno. Variación frente a la semana anterior: +1.4 %. Fin de semana frente a entre semana: -1.8 %.
+
+Estación EST_03, semana del 2022-07-18 al 2022-07-24. Consumo total de la semana: 6342 unidades. Promedio diario: 906 unidades. Día de mayor consumo: viernes 2022-07-22 con 936 unidades. Día de menor consumo: lunes 2022-07-18 con 892 unidades. Festivos en la semana: lunes 2022-07-18. Variación frente a la semana anterior: -0.1 %. Fin de semana frente a entre semana: +1.0 %.
+
+Estación EST_03, semana del 2022-07-25 al 2022-07-31. Consumo total de la semana: 6486 unidades. Promedio diario: 927 unidades. Día de mayor consumo: viernes 2022-07-29 con 972 unidades. Día de menor consumo: domingo 2022-07-31 con 853 unidades. Festivos en la semana: lunes 2022-07-25. Variación frente a la semana anterior: +2.3 %. Fin de semana frente a entre semana: -3.5 %.

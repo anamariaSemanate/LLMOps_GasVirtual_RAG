@@ -1,0 +1,9 @@
+BITÁCORA: GRU Y SELECCIÓN DEL MODELO
+
+GRU: se entrenó con el mismo esquema que el LSTM (3 semillas, corte fijo, walk-forward y periodo de diciembre a enero). Resultó equivalente al LSTM en el corte fijo y algo menos consistente en el walk-forward.
+
+Otras variantes: se probaron Conv1D, Conv1D con rezago, y Conv1D conectada en serie con LSTM. Las mejoras fueron mínimas y no consistentes entre estaciones, señal de que el modelo está cerca del límite que permite la información de entrada.
+
+Modelo seleccionado: el LSTM global con la variable de la semana anterior (configuración lag), por su desempeño y su simplicidad. No requiere mantener un calendario de vacaciones ni variables adicionales.
+
+Comparación final: la configuración sin rezago fue la peor; las tres variantes con rezago (lag, lag con temperatura y lag con vacaciones) quedaron empatadas. Se mantuvo lag por ser la más simple.

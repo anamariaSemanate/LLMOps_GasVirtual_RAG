@@ -1,0 +1,9 @@
+DIAGNÓSTICO: FESTIVOS Y TEMPORADAS DE VACACIONES
+
+Efecto de las vacaciones: en Semana Santa el consumo aumenta entre 19 % y 27 % en las estaciones EST_01, EST_04 y EST_05. En la temporada de fin de año el aumento es de 6 % a 10 % en esas mismas estaciones. La estación EST_03 casi no cambia en vacaciones.
+
+Puentes festivos: la mayoría de los días atípicos del periodo evaluado fueron puentes festivos. El pronóstico se equivoca más en esos días porque la semana anterior, que es la referencia principal del modelo, no tenía festivo.
+
+Qué se probó: se agregó una variable de vacaciones escolares al modelo. No mejoró el resultado por encima de la variación entre semillas, ni siquiera en el periodo de diciembre a enero. La explicación probable es que la variable del consumo de la semana anterior ya capta buena parte del efecto una vez empieza la temporada.
+
+Qué hacer en la operación: el procedimiento pide poder señalizar las temporadas de consumo atípico. Ante una semana con festivo o el inicio de una temporada de vacaciones, revisar manualmente la programación y considerar un margen adicional de inventario.

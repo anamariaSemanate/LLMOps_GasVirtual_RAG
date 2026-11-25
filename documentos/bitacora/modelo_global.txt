@@ -1,0 +1,11 @@
+BITÁCORA: DECISIONES DE DISEÑO DEL MODELO DE PRONÓSTICO
+
+Un solo modelo global: se decidió entrenar un único modelo para todas las estaciones en lugar de uno por estación. La estación entra como una variable más (codificación one-hot). Esto permite incorporar estaciones nuevas sin crear un modelo nuevo.
+
+Granularidad y horizonte: el pronóstico es horario. En operación se necesita un horizonte de hasta 7 días (168 horas), porque la programación de la semana se hace el lunes y la del fin de semana el viernes.
+
+Estaciones alternadas: dos de las estaciones originales abastecen al mismo municipio y operan de forma alternada (una hasta agotarse, luego la otra). Sus series individuales mezclaban la demanda con el cambio de estación activa. Se sumaron hora a hora en una sola serie, que en los datos anonimizados es EST_02. Así quedaron 5 series.
+
+Fuente de datos: el entrenamiento usa el histórico del sistema de facturación, que es más completo. En producción el modelo recibiría datos del SCADA. Ambas fuentes tienen una correlación de 0,84 a 0,96, pero la transferencia de una fuente a otra todavía debe validarse.
+
+Normalización: z-score por estación, calculado solo con los datos de entrenamiento, porque las estaciones tienen escalas de consumo muy distintas.

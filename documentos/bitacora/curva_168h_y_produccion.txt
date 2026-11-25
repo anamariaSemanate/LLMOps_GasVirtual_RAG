@@ -1,0 +1,9 @@
+BITÁCORA: CURVA DE 168 HORAS Y CAMINO A PRODUCCIÓN
+
+Conversión del SCADA: se construyó un bloque que convierte las lecturas del SCADA en volumen corregido horario. Validado contra el sistema de facturación, el error diario fue de 0 % a 0,6 % en casi todas las estaciones.
+
+Curva proyectada de 7 días: el modelo de una hora se aplicó de forma recursiva para proyectar 168 horas. La forma de la curva fue mejor que la del ingenuo en 4 de 5 series, pero apareció un sesgo negativo que crece con el horizonte (por ejemplo -9,6 % en EST_03 y -5,3 % en EST_01). Hay que corregir ese sesgo antes de usar la curva para calcular autonomía.
+
+Proyecto MLOps: en el proyecto de operación se probó un LSTM con salida directa de 168 valores. Superó al ingenuo en WAPE diario, con un sesgo total pequeño, aunque subestimó en la mayoría de las semanas evaluadas. El monitoreo muestra WAPE, sesgo, deriva de nivel y calidad de datos por estación.
+
+Pendiente: validar con datos nunca vistos usando el SCADA como entrada y el sistema de facturación como valor real. Esto valida también la transferencia entre las dos fuentes.

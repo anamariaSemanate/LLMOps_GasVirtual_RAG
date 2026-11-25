@@ -1,0 +1,9 @@
+DIAGNÓSTICO: VARIACIÓN ENTRE ENTRENAMIENTOS (SEMILLAS)
+
+Qué es: la semilla fija el azar del entrenamiento, es decir, los pesos iniciales y el orden de los lotes. La misma arquitectura con los mismos datos puede dar resultados muy distintos según la semilla.
+
+Caso observado: en la estación EST_03, el mismo LSTM dio una mejora de -11,7 % frente al ingenuo en una corrida y de -31,2 % en otra. Son 20 puntos de diferencia causados solo por el azar. En las pruebas del pronóstico semanal, el WAPE diario del LSTM varió de 7,9 % a 13,2 % según la semilla, una diferencia mayor que la que había entre arquitecturas.
+
+Criterio adoptado: cada configuración se entrena con 3 semillas (42, 7 y 123) y se reporta la media y la desviación. Una configuración mejora a otra solo si la diferencia de medias supera la mayor de las dos desviaciones; si no, se considera ruido.
+
+Qué hacer: no comparar modelos con una sola corrida; promediar las semillas (ensamble) para estabilizar los resultados.

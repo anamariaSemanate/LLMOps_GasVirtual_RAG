@@ -1,0 +1,11 @@
+BITÁCORA: LSTM GLOBAL Y LSTM BIDIRECCIONAL
+
+LSTM global: primer modelo global del proyecto. Ventana de entrada de 168 horas, 64 unidades LSTM y una capa densa, unos 20 mil parámetros. Le ganó al ingenuo en 4 de las 5 series, con mejoras de 40 % a 60 % en EST_01, EST_04 y EST_02. La validación walk-forward de 3 cortes confirmó el resultado.
+
+Por qué funciona mejor que Tweedie y SARIMA: el LSTM recibe las 168 horas reales anteriores, así que aprovecha la misma información que hace fuerte al ingenuo y además la corrige con el calendario y el contexto reciente.
+
+Excepción: en EST_03 el LSTM perdía contra el ingenuo. EST_03 es la serie más repetitiva (autocorrelación de 0,938 en el rezago de 168 horas). Las pérdidas se concentraban en los cambios bruscos del perfil diario, por ejemplo en la madrugada, y el modelo subestimaba en el 67 % de las horas.
+
+Causa encontrada: el dato más útil, el valor de la misma hora de la semana anterior, quedaba en la primera fila de la ventana, la más antigua. En un LSTM esa información llega debilitada al final.
+
+LSTM bidireccional: leer la ventana también en sentido inverso mejoró solo EST_03, porque la lectura inversa termina en ese dato. En las demás estaciones la diferencia fue ruido.

@@ -1,0 +1,11 @@
+DIAGNÓSTICO: SESGO NEGATIVO DEL PRONÓSTICO (SUBESTIMACIÓN)
+
+Qué es: el sesgo mide si el pronóstico se queda corto o se pasa en el total. Se calcula como (consumo pronosticado - consumo real) / consumo real. Un sesgo negativo significa que el modelo subestima el consumo.
+
+Por qué es peligroso: la autonomía de una estación se calcula restando el consumo pronosticado al inventario disponible. Si el modelo subestima el consumo, el sistema cree que el gas dura más de lo que realmente dura. Es el error que lleva a desabastecimiento, porque el despacho del camión se programa tarde.
+
+Cómo traducirlo a horas: en un horizonte de 168 horas, un sesgo de -5 % equivale a unas 8 horas de consumo. Un sesgo de -10 % equivale a unas 17 horas. La programación debe garantizar un inventario de seguridad de 0,8 a 1 día, de modo que un sesgo de -10 % o peor puede consumir todo el margen de seguridad.
+
+Señales de alerta: el sesgo es negativo en la mayoría de las semanas evaluadas, no solo en una; el error crece a medida que avanza el horizonte; el pronóstico no alcanza los picos reales.
+
+Qué hacer: revisar varias semanas antes de concluir, porque una semana atípica puede engañar. Si el sesgo es de nivel (aparece desde las primeras horas), multiplicar la curva por la razón real/pronosticado de la semana anterior o normalizar con la media de las últimas semanas. Si el sesgo crece con el horizonte, revisar el pronóstico encadenado. Una alternativa simple es promediar el modelo con el pronóstico ingenuo (repetir la semana anterior), que se equivoca hacia ambos lados.

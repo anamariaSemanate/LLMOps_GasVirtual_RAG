@@ -1,0 +1,11 @@
+GUÍA: CÓMO INTERPRETAR LAS MÉTRICAS DEL PRONÓSTICO
+
+WAPE (error absoluto ponderado): suma de los errores absolutos dividida por el consumo real total. Se prefiere sobre el MAPE porque en la madrugada el consumo es casi nulo y el MAPE se dispara con divisiones por valores cercanos a cero.
+
+WAPE horario y WAPE diario: el WAPE horario compara hora a hora; el diario compara la suma de cada día. El error horario se compensa en buena parte dentro del día, por eso el WAPE diario es mucho menor. Para el cálculo de autonomía importa el diario, porque la autonomía depende del consumo acumulado. Un WAPE diario del 8 % equivale a unas 2 horas de consumo de error por día.
+
+Sesgo: indica la dirección del error. Negativo significa subestimación, que es el lado peligroso (ver sesgo negativo).
+
+Pronóstico ingenuo: repetir el consumo de la misma hora de la semana anterior. Es la referencia obligatoria, porque en estas series el patrón semanal es tan repetitivo que el ingenuo ya es muy preciso. Un modelo solo aporta si mejora al ingenuo.
+
+Porcentaje de semanas subestimadas: si el modelo subestima en la mayoría de las semanas, el sesgo es sistemático y debe corregirse antes de usar la curva para programar despachos.

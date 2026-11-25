@@ -1,0 +1,9 @@
+DIAGNÓSTICO: DERIVA DE NIVEL
+
+Qué es: ocurre cuando el consumo reciente de una estación es sistemáticamente mayor o menor que el consumo con el que se entrenó el modelo. El modelo normaliza los datos con la media y la desviación del periodo de entrenamiento; si el nivel cambió, el pronóstico queda desplazado.
+
+Cómo detectarla: en el tablero de monitoreo, el indicador de deriva es la razón entre el consumo promedio de la última semana y la media de entrenamiento. Un valor por encima de 1,15 indica que la estación consume al menos 15 % más que lo aprendido. Otra señal es que la ventaja del modelo sobre el pronóstico ingenuo disminuye de un periodo de evaluación al siguiente.
+
+Caso observado: en la estación EST_03 la ventaja del modelo frente al ingenuo cayó en cada corte de la evaluación walk-forward, con todas las arquitecturas probadas. Cambiar la arquitectura desplazó los resultados hacia arriba pero no cambió esa tendencia, por lo que la causa más probable es una deriva de nivel y no el modelo. El consumo del último año de EST_03 es mayor que el del año anterior.
+
+Qué hacer: normalizar con la media de las últimas semanas en lugar de la de todo el entrenamiento; reentrenar periódicamente incluyendo los datos recientes; si el ingenuo sigue siendo mejor en esa estación, usar el ingenuo para ella es una decisión válida.
